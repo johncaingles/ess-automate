@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "puppeteer": "^20.4.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.1.4"
+  },
+  "scripts": {}
+}
